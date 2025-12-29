@@ -20,7 +20,7 @@ body {
   max-width: 900px;           /* max width of content */
   margin: 0 auto;             /* center horizontally */
   padding: 32px 80px;         /* vertical 32px, horizontal 80px */
-  background-color: #ffffff;
+  background-color: #e8f5e9;  /* soft green */
   border-radius: 12px;
 }
 
@@ -38,3 +38,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
