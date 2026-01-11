@@ -10,7 +10,7 @@ body {
     Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
     sans-serif;
 
-  background-color: #e8f5e9; /* soft green */
+  background-color: #ccff66; /* green */
   color: #1b4332; /* deep green text */
   line-height: 1.6;
 }
@@ -20,7 +20,7 @@ body {
   max-width: 900px;           /* max width of content */
   margin: 0 auto;             /* center horizontally */
   padding: 32px 80px;         /* vertical 32px, horizontal 80px */
-  background-color: #e8f5e9;  /* soft green */
+  background-color: #ccff66;  /* green */
   border-radius: 12px;
 }
 
@@ -38,4 +38,5 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
